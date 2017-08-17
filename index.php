@@ -11,7 +11,9 @@
   <?php
 
     echo "Awesome site";
-
+    
+    for($i=0;$i<10;$i++)
+      echo '<p>Item '+$i+'</p>';
   ?>
 </body>
 </html>
