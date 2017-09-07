@@ -10,6 +10,9 @@
   <h1>PHP Website</h1>
   <?php
     echo "Awesome site";
+    
+    for($i=0;$i<10;$i++)
+      echo '<p>Item '+$i+'</p>';
   ?>
   <ul>
     <li>link1</li>
