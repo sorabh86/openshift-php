@@ -7,7 +7,7 @@
   <title>Expert Code Design</title>
   <link rel="icon" href="//www.expertcodedesign.com/img/favicon.png" type="image/x-icon">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-</head>
+</head> 
 <body>
 <nav class="navbar navbar-inverse navbar-fixed-top">
       <div class="container">
