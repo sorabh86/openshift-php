@@ -9,9 +9,12 @@
 <body>
   <h1>PHP Website</h1>
   <?php
-
     echo "Awesome site";
-
   ?>
+  <ul>
+    <li>link1</li>
+    <li>link2</li>
+    <li>link3</li>
+  </ul> 
 </body>
 </html>
